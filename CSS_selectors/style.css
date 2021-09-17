@@ -2,10 +2,10 @@
     color:blue;
 }
 #b325.b326 {
-    border: 1px; solid, green;
+    border: 1px, solid, green;
 }
 div {
-    font-style: bold;
+    font-weight: bold;
 }
 p {
     background-color: yellow;
