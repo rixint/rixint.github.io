@@ -1,8 +1,8 @@
 .asteroid.big {
     color:blue;
 }
-#b325.b326 {
-    border: 1px, solid, green;
+#b325,.b326 {
+    border: 1px solid green;
 }
 div {
     font-weight: bold;
