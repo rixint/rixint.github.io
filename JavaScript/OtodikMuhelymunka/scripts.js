@@ -35,10 +35,57 @@ let post = {
     author: "GézaBéla",
     content: "Colours of my day",
 }
-
-
 post.hasMyColors = trueOrFalse = post.colors.length > 3
 
 console.log (post)
 console.log (post.colors)
 
+
+let myVariable = true;
+if (myVariable === true) {
+  console.log('A feltétel igazra lett kiértékelve.');
+}
+
+let a = 7;
+if (a < 5) {
+  console.log(a / 2);
+} else {
+  console.log(a / 7);
+}
+
+let numbercount = 20
+for (let i=2; i < numbercount; i=i+2) {
+    console.log (i)
+}
+
+let add = (a, b) => {
+  return a + b;
+};
+console.log(add(1, 2))
+
+let printNumbersTill = 21;
+for (let i = 1; i < printNumbersTill; i++) {
+  console.log (i)
+}
+
+/* nem működik: 
+let printValues = [0, 3, 6, 7, 9] => {
+for (let i = 0; i < printValues.length; i++) {
+console.log (printValues [i]) 
+  }
+} */
+
+let myNumbers = [10, 20, 30, 50, 12];
+myNumbers.forEach((number) => {
+  // a függvényen belül adhatjuk meg a végrehajtandó műveleteket
+  console.log(number);
+}); 
+
+let printValues = [0, 3, 6, 7, 9]; 
+printValues.forEach((number) => {
+  console.log(number);
+});
+
+$('#fox-1').text('Macrotis')
+$('#fox-2').css("border-color", "purple")
+$('p').css("background-color", "yellow")

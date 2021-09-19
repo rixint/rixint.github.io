@@ -1,0 +1,22 @@
+h1{
+  color: salmon;
+  margin-bottom: 0px;
+}
+h2{
+  color: #8a00e6;
+}
+p{
+  margin-right: 800px;
+}
+ul {
+  list-style-type: square;
+}
+ol {
+  list-style-type: upper-roman;
+}
+.pink{
+  color: #CC00CC;
+}
+.underlined{
+  text-decoration: underline;
+}

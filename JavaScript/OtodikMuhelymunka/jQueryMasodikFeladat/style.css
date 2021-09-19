@@ -1,0 +1,29 @@
+body{
+    border: 10px solid #4285f4;
+    color: white;
+    text-align: center;
+    width: 400px;
+    padding: 0;
+    margin: auto;
+    margin-top: 50px;
+  }
+  .red{
+    background: #E67676;
+  }
+  .yellow{
+    background: #F2F062;
+  }
+  .lightblue{
+    background: #A9E6E6;
+  }
+  .blue{
+    background: #7692E4;
+  }
+  p{
+    margin: 0;
+    padding: 50px;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-weight: bold;
+    font-size: 24px;
+  }
+  
