@@ -1,0 +1,31 @@
+.button1 {
+    width: 200px;
+    height: 100px;
+    background-color: black;
+    border: none;
+    color: white;
+    font-size: 16px;
+}
+
+.button2 {
+    width: 200px;
+    height: 100px;
+    background-color: pink;
+    border: none;
+    color: white;
+    font-size: 16px;
+}
+
+.button3 {
+    width: 200px;
+    height: 100px;
+    background-color: yellow;
+    border: none;
+    color: white;
+    font-size: 16px;
+}
+
+input {
+    background-color: blue;
+    margin: 20px;
+}
